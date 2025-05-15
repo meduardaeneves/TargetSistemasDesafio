@@ -17,9 +17,12 @@ Código deve ser visto no arquivo ".ipynb"
 ## Questão 03:
 
 Menor valor de faturamento no mês: R$ 373.7838
+
 Maior valor de faturamento no mês: R$ 48924.2448
 
+
 Média de faturamento: R$ 20865.3702
+
 Qnt de meses em que o o faturamento superou a média: 10
 
 ## Questão 04:
