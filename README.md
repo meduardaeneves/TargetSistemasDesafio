@@ -10,7 +10,8 @@ Ao final, a variável soma tem valor de 91
 
 ## Questão 02:
 
-Função desenvolvida com o objetivo de infomrar se determinado número faz parte ou não da sequência de Fibonacci. Código deve ser visto no arquivo ".ipynb"
+Função desenvolvida com o objetivo de infomrar se determinado número faz parte ou não da sequência de Fibonacci. 
+Código deve ser visto no arquivo ".ipynb"
 
 ## Questão 03:
 
