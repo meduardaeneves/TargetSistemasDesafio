@@ -8,6 +8,10 @@ O arquivo que contém os resultados chama-se "TargetSistemasDesafio_MariaEduarda
 
 Ao final, a variável soma tem valor de 91
 
+## Questão 02:
+
+Função desenvolvida com o objetivo de infomrar se determinado número faz parte ou não da sequência de Fibonacci. Código deve ser visto no arquivo ".ipynb"
+
 ## Questão 03:
 
 Menor valor de faturamento no mês: R$ 373.7838
